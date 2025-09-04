@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lvatista/Documents/Unreal Projects/Lab1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lvatista/Documents/Unreal Projects/Lab1/Content/BP_Spawner.uasset"
+			]
+		}
+	]
+}
