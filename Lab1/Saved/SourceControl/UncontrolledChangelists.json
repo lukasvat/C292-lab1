@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lvatista/Documents/GitHub/C292-lab1/Lab1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/L7/W4WYMBD8NJAC5OOXKPVG6E.uasset",
+				"C:/Users/lvatista/Documents/GitHub/C292-lab1/Lab1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Q7/H5H2MCCY692AVEUENMMR3J.uasset",
+				"C:/Users/lvatista/Documents/GitHub/C292-lab1/Lab1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lvatista/Documents/GitHub/C292-lab1/Lab1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AC/WKIG044XSIXDFNXBJHDQF2.uasset",
+				"C:/Users/lvatista/Documents/GitHub/C292-lab1/Lab1/Content/BP_Trapdoor.uasset",
 				"C:/Users/lvatista/Documents/Unreal Projects/Lab1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/lvatista/Documents/Unreal Projects/Lab1/Content/BP_Spawner.uasset"
 			]
